@@ -17,5 +17,3 @@ Features:
 - Real-time messaging
 - User authentication
 - Private and group chats
-
-*It Is a copied project from youtube trying to gain new skills and knowledge*.
